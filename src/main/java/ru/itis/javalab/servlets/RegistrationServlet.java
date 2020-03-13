@@ -1,6 +1,7 @@
 package ru.itis.javalab.servlets;
 
 import org.springframework.context.ApplicationContext;
+import org.springframework.ui.freemarker.FreeMarkerConfigurationFactory;
 import ru.itis.javalab.dto.SignUpDto;
 import ru.itis.javalab.dto.UserDto;
 import ru.itis.javalab.services.ParametrLoader;
